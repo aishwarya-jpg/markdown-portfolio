@@ -1,1 +1,9 @@
-Replace this with a list of your favorite things.
+# unorder list
+- harry potter
+- friends
+- naruto
+
+# order list
+1. naruto uzumaki
+2. Chandler bing
+3. sasuke uchiha
